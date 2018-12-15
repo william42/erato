@@ -1,0 +1,7 @@
+[package]
+name = "erato"
+version = "0.1.0"
+authors = ["Will A Cadegan-Schlieper <wacs@covering.space>"]
+edition = "2018"
+
+[dependencies]
